@@ -1,0 +1,29 @@
+/* Body's container */
+
+.container {
+    width: 100%;
+    max-width: 1440px;
+    margin: 0 auto;
+    background-color: #F5F5F5;
+}
+
+/* Header */
+
+header {
+    width: 100%;
+    padding: 45px 80px 70px 80px;
+    border-radius: 0px 0px 50px 50px;
+    background-color: #FFFFFF;
+    display: flex;
+    justify-content: space-between;
+    border: solid red 2px;
+}
+.fa-bars {
+    font-size: 60px;
+}
+
+/* Section 1 */
+
+.section1 {
+    
+}
